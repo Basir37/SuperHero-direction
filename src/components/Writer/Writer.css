@@ -1,0 +1,29 @@
+.writer img {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 5px auto;
+}
+
+.writer {
+    text-align: center;
+    background-color: #a55d5d;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    box-shadow: 3px 3px #855757;
+    color: black;
+}
+
+.regular-button {
+    padding: 7px;
+    width: 150px;
+    background-color: #0c0c0c;
+    border: 2px solid rgb(84, 140, 192);
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 5px;
+    color: whitesmoke;
+    font-size: 18px;
+}

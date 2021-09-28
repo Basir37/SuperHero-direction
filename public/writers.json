@@ -1,0 +1,113 @@
+[
+  {
+      "name": "Rabindranath Tagore",
+      "country": "India",
+      "category": "Novelist",
+      "bestSold": "Gitanjali",
+      "language": "Bangla",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Rabindranath_Tagore_unknown_location.jpg/220px-Rabindranath_Tagore_unknown_location.jpg",
+      "books":"1112"
+    },
+    {
+      "name": "Sarat Chandra Chattopadhyay",
+      "country": "India",
+      "category": "Noble writer",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Sarat_Chandra_Chattopadhyay_portrait.jpg/220px-Sarat_Chandra_Chattopadhyay_portrait.jpg",
+      "bestSold": "Shrikanta ",
+      "language": "Bangla",
+      "books":"53"
+    },
+    {
+      "name": "Kazi Nazrul Islam",
+      "country": "Bangladesh",
+      "category": "Poet",
+      "bestSold": "Bidorhi",
+      "language": "Bangla",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Nazrul.jpg/220px-Nazrul.jpg",
+      "books":"587"
+    },
+    {
+      "name": "William Shakespeare",
+      "country": "England",
+      "category": "Dramatist",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/220px-Shakespeare.jpg",
+      "bestSold": "Hamlet",
+      "language": "English",
+      "books":"574"
+    },
+    {
+      "name": "Rumi",
+      "country": "Turkey",
+      "category": "Poet",
+      "image": "https://ychef.files.bbci.co.uk/live/624x351/p01xcznd.jpg",
+      "bestSold": "Blind men and an elephant",
+      "language": "Persian",
+      "books":"235"
+    },
+    {
+      "name": "Robert Browning",
+      "country": "English",
+      "category": "Poet",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Robert_Browning_by_Herbert_Rose_Barraud_c1888.jpg/220px-Robert_Browning_by_Herbert_Rose_Barraud_c1888.jpg",
+      "bestSold": "My Last Duchess",
+      "language": "English",
+      "books":"421"
+    },
+    {
+      "name": "Lu Xun",
+      "country": "China",
+      "category": "Literature",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/LuXun1930.jpg/200px-LuXun1930.jpg",
+      "bestSold": "In the Drinking House",
+      "language": "Chinese",
+      "books":"92"
+      
+    },
+    
+    
+    {
+      "name": "Jibananda Dash",
+      "country": "Bangladesh",
+      "category": "Poet",
+      "bestSold": "Abar Asibo Fire",
+      "language": "Bangla",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Jibanananda_Das_%281899%E2%80%931954%29.jpg/220px-Jibanananda_Das_%281899%E2%80%931954%29.jpg",
+      "books":"232"
+    },
+    {
+      "name": "Alfred Tennyson",
+      "country": "England",
+      "category": "Poet",
+      "bestSold": "Ulysses",
+      "language": "English",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Alfred_Tennyson%2C_1st_Baron_Tennyson_by_George_Frederic_Watts.jpg/220px-Alfred_Tennyson%2C_1st_Baron_Tennyson_by_George_Frederic_Watts.jpg",
+      "books":"487"
+    },
+    {
+      "name": "Bibhutibhushan Bandyopadhyay",
+      "country": "India",
+      "category": "Novelist",
+      "bestSold": "Pather Panchali",
+      "language": "Bangla",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Bibhutibhushan_Bandopadhyay.jpg/200px-Bibhutibhushan_Bandopadhyay.jpg",
+      "books":"95"
+    },
+    {
+      "name": "Dylan Thomas",
+      "country": "Wales",
+      "category": "Poet",
+      "bestSold": "Under Milk Wood",
+      "language": "English",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bc/Dylan_Thomas_photo.jpg/220px-Dylan_Thomas_photo.jpg",
+      "books":"248"
+    },
+    {
+      "name": "Jasimuddin",
+      "country": "Bangladesh",
+      "category": "Pastoral Poet",
+      "bestSold": " Nakshi Kanthar Maath",
+      "language": "English",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Jasimuddin_Lomax_1951_%282%29.jpg/220px-Jasimuddin_Lomax_1951_%282%29.jpg",
+      "books":"156"
+    }
+  ]
